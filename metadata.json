@@ -1,0 +1,5 @@
+{
+  "name": "Localization Assessment",
+  "description": "An assessment application designed to help an intern learn and implement localization using the next-intl library by replacing hardcoded text with dynamic, translated content.",
+  "requestFramePermissions": []
+}
